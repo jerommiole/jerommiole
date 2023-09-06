@@ -10,6 +10,8 @@
 
 - 📫 How to reach me **miolejerom@gmail.com**
 
+- ⚡ I have an AI Facebook page at https://www.facebook.com/officialjrom
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jerommiole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jerommiole" height="30" width="40" /></a>
