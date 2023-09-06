@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **miolejerom@gmail.com**
 
-- ⚡ I have an AI Facebook page at https://www.facebook.com/officialjrom
+- ⚡ I have an AI Images Gallery at https://www.facebook.com/officialjrom
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
