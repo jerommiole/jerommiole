@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Jerom Miole</h1>
 <h3 align="center">Experienced Web Developer | Crafting Engaging and Responsive Online Experiences</h3>
 <img align="right" alt="IT Guy" width="400" src="https://i.imgur.com/pdgTn1l.png"/>
-<br/>
+<br/><br/>
 
 - 🔭 I’m currently working on **Auckland Catholic Filipino Chaplaincy Website**
 
