@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **miolejerom@gmail.com**
 
-- 👨‍💻 My recent projects are here https://jrom.webflow.io/
+- 👨‍💻 My recent projects https://jrom.webflow.io/
 
 - ⚡ I have an AI Images Gallery at https://www.facebook.com/officialjrom
 
