@@ -4,8 +4,6 @@
 <img align="right" alt="IT Guy" width="400" src="https://i.imgur.com/pdgTn1l.png"/>
 <br/><br/>
 
-- 🔭 I’m currently working on **Auckland Catholic Filipino Chaplaincy Website**
-
 - 🌱 I’m currently learning **TypeScript**
 
 - 📫 How to reach me **miolejerom@gmail.com**
