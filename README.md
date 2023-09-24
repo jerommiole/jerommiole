@@ -4,7 +4,7 @@
 <img align="right" alt="IT Guy" width="400" src="https://i.imgur.com/pdgTn1l.png"/>
 <br/><br/>
 
-- 🌱 I’m currently learning **React NextJS** and **Three.js**
+- 🌱 I’m currently learning **TypeScript, NextJS 13** and **Three.js**
 
 - 📫 How to reach me **miolejerom@gmail.com**
 
