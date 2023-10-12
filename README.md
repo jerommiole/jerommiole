@@ -6,7 +6,6 @@
 - 🔭 I’m currently working on [DevFlow Project](https://dev-overflow-nextjs13-tau.vercel.app/)
 - 📫 How to reach me **miolejerom@gmail.com**
 - 📄 Know about my experiences [Curriculum vitae](https://drive.google.com/file/d/1JG4wdROztDrWLRNrTvd6TaD-xE7HhL1o/view?usp=sharing)
-- ⚡ I have an AI Images Gallery at https://www.facebook.com/officialjrom
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
