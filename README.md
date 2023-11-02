@@ -3,7 +3,7 @@
 <img align="right" alt="IT Guy" width="400" src="https://i.imgur.com/pdgTn1l.png"/>
 <br/><br/>
 
-- 🔭 I’m currently working on [Royal Oak Medical Centre](https://royal-oak-medical-centre.vercel.app/)
+- 🔭 I’m currently working on [Pinoy Overflow](https://github.com/jerommiole/pinoy-overflow)
 - 📫 How to reach me **miolejerom@gmail.com**
 - 📄 Know about my experiences [Curriculum vitae](https://drive.google.com/file/d/1JG4wdROztDrWLRNrTvd6TaD-xE7HhL1o/view?usp=sharing)
 
@@ -19,4 +19,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jerommiole&show_icons=true&locale=en&layout=compact" alt="jerommiole" /></p>
 
-<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jerommiole" alt="jerommiole" /></p>-->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jerommiole" alt="jerommiole" /></p>
