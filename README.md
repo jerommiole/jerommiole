@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Pinoy Overflow](https://pinoy-overflow-nextjs13-jerommiole.vercel.app/)
 - 📫 How to reach me **miolejerom@gmail.com**
-- 📄 Know about my experiences [Curriculum vitae](https://drive.google.com/file/d/1JG4wdROztDrWLRNrTvd6TaD-xE7HhL1o/view?usp=sharing)
+- 📄 Know about my experiences [Curriculum vitae](https://drive.google.com/file/d/1OGrpaFmx2T7rOgJplhFnyWK2UZ9PDo-1/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
